@@ -57,17 +57,13 @@ python app.py
 
 ## Error 1
 data.json not found	
-- Cause
-Missing file in the folder	
-- Solution
-Make sure data.json is in the same folder as the .exe.
+- Cause: Missing file in the folder	
+- Solution: Make sure data.json is in the same folder as the .exe.
 
 ## Error 2
 Window closes immediately	
-- Cause
-Opened without terminal
-- Solution
-Open cmd, navigate to the folder, and run DataVault.exe to see error messages.
+- Cause: Opened without terminal
+- Solution: Open cmd, navigate to the folder, and run DataVault.exe to see error messages.
 
 ## Tips
 You can edit data.json to add your own categories, items, and locations.
