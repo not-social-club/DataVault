@@ -1,0 +1,60 @@
+{
+  "categories": {
+    "Weapons": [
+      "Ardor-1 | S1 | Laser Repeater",
+      "Ardor-2 | S2 | Laser Repeater",
+      "Ardor-3 | S3 | Laser Repeater",
+      "Attrition-1 | S1 | Laser Repeater",
+      "Attrition-2 | S2 | Laser Repeater",
+      "Attrition-3 | S3 | Laser Repeater",
+      "Attrition-4 | S4 | Laser Repeater",
+      "Attrition-5 | S5 | Laser Repeater",
+      "Attrition-6 | S6 | Laser Repeater",
+      "CF-117 Bulldog | S1 | Laser Repeater",
+      "CF-227 Badger | S2 | Laser Repeater",
+      "CF-337 Panther | S3 | Laser Repeater",
+      "CF-447 Rhino | S4 | Laser Repeater",
+      "CF-557 Galdereen | S5 | Laser Repeater",
+      "CF-667 Mammoth | S6 | Laser Repeater",
+      "NDB-26 | S1 | Neutron Repeater",
+      "NDB-28 | S2 | Neutron Repeater",
+      "NDB-30 | S3 | Neutron Repeater",
+      "Revenant | S4 | Ballistic Gatling"
+    ],
+    "Coolers": [
+      "Avalanche | S2 | A | Military",
+      "Blizzard | S3 | A | Military",
+      "Glacier | S1 | A | Military",
+      "NightFall | S2 | A | Stealth",
+      "SnowBlind | S1 | A | Stealth"
+    ],
+    "Power plant": [
+      "JS-300 | S1 | A | Military",
+      "JS-400 | S2 | A | Military",
+      "JS-500 | S3 | A | Military",
+      "QuadraCell | S1 | A | Military",
+      "QuadraCell MT | S2 | A | Military",
+      "QuadraCell MX | S3 | A | Military",
+      "Eclipse | 2 | A | Stealth",
+      "Slipstream | S1 | A | Stealth"
+    ],
+        "Shields": [
+      "FR-66 | S2 | A | Military",
+      "FR-76 | S2 | A | Military",
+      "FR-86 | S3 | A | Military",
+      "Mirage | S1 | A | Stealth",
+      "Umbra | S2 | A | Stealth"
+    ]
+  },
+  "cities": [
+      "Area18",
+      "Baijini Point",
+      "Lorville",
+      "Everus Harbor",
+      "Orison",
+      "Seraphim Station",
+      "New Babbage",
+      "Port Tressler",
+      "Grim HEX"
+  ]
+}
